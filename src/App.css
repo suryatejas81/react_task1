@@ -1,0 +1,17 @@
+.App {
+  margin: auto;
+  font-size: large;
+  color: black ;
+  border: 10px solid salmon;
+  padding: 20px;
+  max-width: fit-content;
+}
+.wc
+{
+  margin-right: 20%;
+}
+.num{
+  color: salmon;
+  font-size: xx-large;
+
+}
